@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Khadar Basha ð</h1>
+<h1 align="center">Hi there, I'm Khadar Basha 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer</strong> Â· Agentic Workflows Â· Multi-Agent Systems Â· RAG Â· Production AI
+  <strong>AI Engineer</strong> · Agentic Workflows · Multi-Agent Systems · RAG · Production AI
 </p>
 
 <p align="center">
@@ -12,20 +12,20 @@
 
 ---
 
-## ð About Me
+## 🚀 About Me
 
-I'm an **AI Engineer** who designs and delivers **production-grade AI/ML applications** end to end â from architecture through deployment, monitoring, and iterative improvement. I build **scalable backend systems, APIs, data pipelines, and intelligent workflows** integrated into enterprise production infrastructure.
+I'm an **AI Engineer** who designs and delivers **production-grade AI/ML applications** end to end — from architecture through deployment, monitoring, and iterative improvement. I build **scalable backend systems, APIs, data pipelines, and intelligent workflows** integrated into enterprise production infrastructure.
 
-- ð¤ **Agentic AI:** Agentic Workflows Â· Multi-Agent Systems Â· Orchestration Â· Tool-Calling Â· Planning Â· Memory
-- ð§  **LLM & RAG:** LangChain Â· LangGraph Â· LlamaIndex Â· CrewAI Â· OpenAI Â· Anthropic Â· Gemini Â· AWS Bedrock Â· Mistral
-- ðï¸ **Vector DBs:** Pinecone Â· FAISS Â· Weaviate Â· ChromaDB Â· pgvector
-- âï¸ **Engineering:** Python (Async/OOP) Â· TypeScript/Node.js Â· FastAPI Â· Django REST Â· PostgreSQL Â· System Design
-- âï¸ **Cloud & DevOps:** AWS Â· GCP Â· Azure Â· Docker Â· Kubernetes Â· GitHub Actions CI/CD
-- ð¢ **Currently:** AI Engineer @ **Rooman Technologies, Bengaluru**
+- 🤖 **Agentic AI:** Agentic Workflows · Multi-Agent Systems · Orchestration · Tool-Calling · Planning · Memory
+- 🧠 **LLM & RAG:** LangChain · LangGraph · LlamaIndex · CrewAI · OpenAI · Anthropic · Gemini · AWS Bedrock · Mistral
+- 🗄 **Vector DBs:** Pinecone · FAISS · Weaviate · ChromaDB · pgvector
+- ⚙️ **Engineering:** Python (Async/OOP) · TypeScript/Node.js · FastAPI · Django REST · PostgreSQL · System Design
+- ☁️ **Cloud & DevOps:** AWS · GCP · Azure · Docker · Kubernetes · GitHub Actions CI/CD
+- 🏢 **Currently:** AI Engineer @ **Rooman Technologies, Bengaluru**
 
 ---
 
-## ð ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 **🤖 Agentic Frameworks & Orchestration**
 <p align="center">
@@ -73,50 +73,50 @@ I'm an **AI Engineer** who designs and delivers **production-grade AI/ML applica
 
 ---
 
-## ð¼ Experience
+## 💼 Experience
 
-### AI Engineer â Rooman Technologies, Bengaluru *(Jul 2024 â Present)*
+### AI Engineer — Rooman Technologies, Bengaluru *(Jul 2024 – Present)*
 
-- Built and delivered **production-grade AI/ML applications** end to end â owning architecture, development, deployment, and ongoing enhancement
+- Built and delivered **production-grade AI/ML applications** end to end — owning architecture, development, deployment, and ongoing enhancement
 - Developed **AI-enabled platforms** leveraging agentic workflows, orchestration layers, RAG, and multi-agent systems using **LangChain, LangGraph, and CrewAI** across OpenAI, Anthropic, and Bedrock
-- Built **RAG architectures** over 10K+ documents with vector databases (pgvector, Pinecone, FAISS); implemented evaluation harnesses â **reducing hallucination rate by 35%**
+- Built **RAG architectures** over 10K+ documents with vector databases (pgvector, Pinecone, FAISS); implemented evaluation harnesses — **reducing hallucination rate by 35%**
 - Designed **scalable backend systems, REST APIs, and data pipelines** with strong system design, data modeling, and clean async Python/TypeScript
 - **Led 5 engineers** delivering in a fast-paced environment; deployed on AWS with Docker, Kubernetes, and CI/CD
 
 ---
 
-## ðï¸ Key Projects
+## 🏆 Key Projects
 
-### ð¤ Multi-Agent AI Platform â [AIMS For All](https://www.aimsforall.com) *(Jul 2024 â Mar 2025)*
-*Python Â· LangChain Â· OpenAI Â· RAG Â· pgvector Â· FastAPI Â· AWS Â· Docker*
+### 🤖 Multi-Agent AI Platform — [AIMS For All](https://www.aimsforall.com) *(Jul 2024 – Mar 2025)*
+*Python · LangChain · OpenAI · RAG · pgvector · FastAPI · AWS · Docker*
 
-Built a modular multi-agent system with orchestration, semantic chunking, embeddings, RAG retrieval, and LLM scoring â exposed as scalable async Python REST APIs. Implemented evaluation harnesses and production deployment on AWS with Docker, CI/CD, monitoring, and structured logging.
+Built a modular multi-agent system with orchestration, semantic chunking, embeddings, RAG retrieval, and LLM scoring — exposed as scalable async Python REST APIs. Implemented evaluation harnesses and production deployment on AWS with Docker, CI/CD, monitoring, and structured logging.
 
-### â¡ Agentic SaaS Platform â [StartupVarsity](https://www.startupvarsity.com) *(Apr 2025 â Oct 2025)*
-*TypeScript Â· Node.js Â· PostgreSQL Â· LangGraph Â· OpenAI/Gemini Â· RAG Â· Orchestration*
+### ⚡ Agentic SaaS Platform — [StartupVarsity](https://www.startupvarsity.com) *(Apr 2025 – Oct 2025)*
+*TypeScript · Node.js · PostgreSQL · LangGraph · OpenAI/Gemini · RAG · Orchestration*
 
 Architected a multi-tenant SaaS with LLM-powered agents and orchestration, strong system design, RBAC, and data modeling on PostgreSQL. Built semantic search over embeddings with structured-output validation, guardrails, and regression evals across OpenAI and Gemini.
 
-### ð¢ Enterprise Agentic Platform â [Rooman ERP](https://erp.rooman.net) *(Nov 2025 â Present)*
-*Python Â· Django REST Framework Â· PostgreSQL Â· Agentic AI Â· Docker Â· AWS*
+### 🏢 Enterprise Agentic Platform — [Rooman ERP](https://erp.rooman.net) *(Nov 2025 – Present)*
+*Python · Django REST Framework · PostgreSQL · Agentic AI · Docker · AWS*
 
 Leading 5 engineers building an enterprise platform with modular service boundaries, governed data, and AI-ready REST APIs. Designed agentic workflows (auto-summarization, anomaly detection, triage) using orchestration, tool-calling, and evaluation harnesses in production.
 
 ---
 
-## ð Education
+## 🎓 Education
 
-**B.Tech in Computer Science and Engineering** â Bharath Institute of Higher Education and Research, Chennai *(2020 â 2024)* Â· **CGPA: 8.7/10**
+**B.Tech in Computer Science and Engineering** — Bharath Institute of Higher Education and Research, Chennai *(2020 – 2024)* · **CGPA: 8.7/10**
 
 ---
 
-## ð Certifications
+## 📜 Certifications
 
-- ð **Claude Certified Architect â Foundations (CCA-F)** â Anthropic *(Jun 2026)* Â· [Verify](https://verify.skilljar.com/c/tggc7bwa7k2v)
-- ð **Generative AI: Prompt Engineering Basics** â IBM SkillsBuild *(Feb 2026)*
-- ð **ChatGPT Prompt Engineering for Developers** â DeepLearning.AI *(Aug 2025)*
-- âï¸ **Generative AI Learning Path** â Google Cloud Skills Boost *(Jul 2025)*
-- â **Java Certification** *(May 2024)*
+- 🏆 **Claude Certified Architect – Foundations (CCA-F)** — Anthropic *(Jun 2026)* · [Verify](https://verify.skilljar.com/c/tggc7bwa7k2v)
+- 📘 **Generative AI: Prompt Engineering Basics** — IBM SkillsBuild *(Feb 2026)*
+- 📘 **ChatGPT Prompt Engineering for Developers** — DeepLearning.AI *(Aug 2025)*
+- ☁️ **Generative AI Learning Path** — Google Cloud Skills Boost *(Jul 2025)*
+- ☕ **Java Certification** *(May 2024)*
 
 ---
 
@@ -131,4 +131,4 @@ Leading 5 engineers building an enterprise platform with modular service boundar
 
 ---
 
-<p align="center"><em>Building the future, one agent at a time ð¤</em></p>
+<p align="center"><em>Building the future, one agent at a time 🤖</em></p>
